@@ -118,5 +118,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    },
+    {
+        "name": "lua",
+        "icon": "https://icons8.com/icon/KppI8aNv6oQe/lua-language"
+    }
 ]
