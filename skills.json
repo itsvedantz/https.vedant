@@ -1,5 +1,9 @@
 [
     {
+        "name": "lua",
+        "icon": "https://icons8.com/icon/KppI8aNv6oQe/lua-language"
+    },
+    {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
@@ -38,10 +42,6 @@
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "HTML5",
@@ -120,7 +120,8 @@
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     },
     {
-        "name": "lua",
-        "icon": "https://icons8.com/icon/KppI8aNv6oQe/lua-language"
-    }
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    
 ]
